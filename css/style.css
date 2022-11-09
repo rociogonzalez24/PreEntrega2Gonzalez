@@ -1,0 +1,7 @@
+.efecto-sombra{
+    transition: box-shadow 0.5s;
+}
+
+.efecto-sombra:hover{
+    box-shadow: 2px 2px;
+}
